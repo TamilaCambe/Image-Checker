@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verificador de Imagem</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+    <header>
+        <h1> Verificador de Imagem </h1>
+    </header>
+    <div class="container">
+        <section id="verifica">
+            <div>
+                <label>Ano de Nascimento:</label>
+
+                <input id="txtano" name=txtano placeholder="1900" autofocus>
+
+                <div>
+                    <label> Sexo: <input type="radio" name="radsex" class="genero" id="masc" value="feminino" checked> Feminino </label>
+                    <label> <input type="radio" name="radsex" class="genero" id="fem" value="masculino"> Masculino </label>
+                </div>
+
+                <button id="botao" type="button" value="verificar" onclick="verificar()">Verificar</button>
+            </div>
+
+            <div id="res">
+                <p> Preencha os dados acima para ver o resultado! </p>
+
+
+            </div>
+
+        </section>
+    </div>
+
+    <footer> &copy Tamila Cambé </footer>
+
+    <script src="./script.js"></script>
+</body>
+
+</html>
