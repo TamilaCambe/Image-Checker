@@ -1,6 +1,6 @@
 # 
 <h1 align = 'center'>Image-Checker 📸 </h1> 
-<h3 align = 'center'>Detects and displays an image according to age </h3>
+<h3 align = 'center'>Detects age and displays an image according to age </h3>
  
   ![Badge](https://img.shields.io/static/v1?label=DEV&message=Tamila&color=4B0082&style=flat&logo=)
   
