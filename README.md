@@ -6,12 +6,13 @@
   
   ## Demonstration 👀 
  
- ![homepage]()
+ ![homepage](https://github.com/TamilaCambe/Image-Checker/blob/main/assets/Design%20sem%20nome%20(5).gif)
  
  ## Explanation 📑
  
  <p> Project to train JavaScript!
-Project made to train JavaScript. According to the age range, the checker tells the exact age and shows an illustrative photo of a person with the approximate age.<p>
+Project made to train JavaScript. According to the age range, the checker tells the exact age and shows an illustrative photo of a person with the approximate age. Is responsive.
+<p>
  
  ## 💻 Technologies used
 
