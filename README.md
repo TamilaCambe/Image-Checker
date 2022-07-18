@@ -11,7 +11,7 @@
  ## Explanation 📑
  
  <p> Project to train JavaScript!
-Project made to train JavaScript. According to the age range, the checker tells the exact age and shows an illustrative photo of a person with the approximate age. Is responsive.
+Project made to train JavaScript. According to the year of birth, the checker informs the exact age and shows an illustrative photo of a person with the approximate age. It's responsive.
 <p>
  
  ## 💻 Technologies used
