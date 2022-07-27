@@ -6,19 +6,19 @@
 }
 
 body {
-    background: #FFF0F5;
+    background: #282c34;
 }
 
 header {
     font-size: 1.4rem;
     text-align: center;
     margin-top: 4rem;
-    color: #4B0082;
+    color: rosybrown;
     transition: 1s;
 }
 
 section {
-    background: #D8BFD8;
+    background: rosybrown;
     width: 25rem;
     height: 100%;
     margin-inline: auto;
