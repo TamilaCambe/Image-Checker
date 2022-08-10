@@ -65,8 +65,8 @@ input {
     font-size: 1rem;
     margin-top: 1.8rem;
     margin-inline: auto;
-    width: 5rem;
-    height: 1.6rem;
+    width: 6rem;
+    height: 1.8rem;
     border-radius: .5rem;
     border: .5px solid #282c34;
     display: flex;
@@ -75,7 +75,7 @@ input {
 }
 
 #botao:hover {
-    background-color: rgb(204, 69, 69);
+    background-color: rgb(166, 99, 99);
     border: .5px solid #282c34;
     color: #282c34;
 }
