@@ -59,8 +59,8 @@ input {
 }
 
 #botao {
-    background-color: rgb(169, 96, 96);
-    color: #fff;
+    background-color: rosybrown;
+    color: #282c34;
     font-weight: bold;
     font-size: 1rem;
     margin-top: 1.8rem;
@@ -68,7 +68,7 @@ input {
     width: 5rem;
     height: 1.6rem;
     border-radius: .5rem;
-    border: .5px solid #fff;
+    border: .5px solid #282c34;
     display: flex;
     align-items: center;
     justify-content: center;
