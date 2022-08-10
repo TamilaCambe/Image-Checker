@@ -6,7 +6,7 @@
   
   ## Demonstration 👀 
  
- ![homepage](https://github.com/TamilaCambe/Image-Checker/blob/main/assets/Design%20sem%20nome%20(5).gif)
+ ![homepage](https://github.com/TamilaCambe/Image-Checker/blob/main/assets/Design%20sem%20nome%20(6).gif)
  
  ## Explanation 📑
  
